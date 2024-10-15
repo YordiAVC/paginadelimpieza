@@ -1,0 +1,177 @@
+@media (max-width:945px) {
+    .hero_descripcion h3{
+        font-size: 35px;
+    }
+    .acerca_de_img img{
+        width: 50%;
+    }
+    .informe_bg h3{
+        width: 95%;
+    }
+    .informe_bg p{
+        width: 95%;
+    }
+    .listo_caja{
+        justify-content: center;
+    }
+    .porque_info{
+        padding: 5px 5px;
+        flex-wrap: wrap;
+        margin: 60px 0px;
+    }
+    .porque_descripcion{
+        width: 80%;
+    }
+    .porque_info img{
+        width: 80%;
+    }
+    .porque_cajas{
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .porque_caja{
+        padding: 2px;
+    }
+    .porque_caja h4{
+        text-align: center;
+    }
+    .footer_cajas{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width:770px){
+    .nav_direccion{
+        display: none;
+    }
+    .hero_med{
+        flex-wrap: wrap;
+    }
+    .hero_descripcion{
+        width: 80%;
+    }
+    .hero_img{
+        width: 80%;
+    }
+    
+    .hero_med .hero_img .hero_fondo{
+        width: 100%;
+    }
+    .acerca_de{
+        overflow: hidden;
+        padding: 5px;
+        flex-wrap: wrap;
+    }
+    .acerca_de h3 {
+        text-align: center;
+        display: inline-block;
+        font-size: 35px;
+        width: 95%;
+        padding: 5px;
+        height:100%;
+    }
+    .acerca_de p{
+        width: 95%;
+        height: 100%;
+        font-size: 16px;
+    }
+    
+    .acerca_de_img{
+        flex-wrap: wrap;
+    }
+    .acerca_de_img img{
+        width: 95%;
+    }
+    .productos h3{
+            width: 95%;
+            height: 100%;
+            font-size: 35px;
+            padding: 20px;
+    }
+    .productos .btn_preguntar{
+        width: 95%;
+    }
+    .productos .btn_preguntar a{
+        font-size: 35px;
+        width: 100%;
+    }
+    .productos_figure{
+        padding: 40px 5px;
+    }
+    
+    .servicio h3{
+        font-size: 35px;
+        padding: 5px;
+        height: 100%;
+    }
+    .informe_bg h3{
+        font-size: 35px;
+    }
+    .informe_bg p{
+        font-size: 16px;
+    }
+    .informe_btn_pregunta{
+            display: flex;
+            justify-content: center;
+            width: 85%;
+    }
+        .informe_btn_pregunta a{
+            font-size: 20px;
+            width: 100%;
+            text-align: center;
+    }
+    .porque{
+        padding-top: 0px;
+    }
+    .porque_info .porque_descripcion h3{
+        font-size: 35px;
+    }
+    .porque_info .porque_descripcion p{
+        width: 100%;
+    }
+    .porque_info .porque_descripcion p:nth-child(2){
+        width: 100%;
+    }
+    .listo_caja form{
+        width: 95%;
+    }
+    .listo_caja{
+        padding: 20px;
+    }
+    .listo_caja form input, textarea{
+        width: 100%;
+    }
+    iframe{
+        height: 500px;
+    } 
+}
+@media (max-width:620px){
+    nav{
+        height: auto;
+    }
+    .nav{
+        gap: 5px;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .hero_img .hero_fondo{
+        height: 250px;
+    }
+    .productos_figure figure, .productos_figure figure img{
+        width: 200px;
+        height: 200px;
+    }
+    .productos_figure figure .figure_p p{
+        font-size: 16px;
+    }
+    .acerca_de_img img{
+        height: 250px;
+    }
+    .informe{
+        height: auto;
+    }
+    .informe_bg{
+        padding: 50px 5px;
+        gap: 20px;
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "lengua": {
+    "lengua": "Language:"
+    },
+    "listas": {
+    "inicio": "Home",
+    "producto": "About",
+    "contacto": "Contact"
+    },
+    "hero": {
+    "descripcion-h3": "(Company): We are cleaning product experts.",
+    "descripcion-p": "At (Company), we understand that cleanliness and well-being go hand in hand.",
+    "l1": "<img src='assets/img/icons/icon-check.svg' alt='check' loading='lazy'> (Number) years of experience in the industry.",
+    "l2": "<img src='assets/img/icons/icon-check.svg' alt='check' loading='lazy'> 24/7 availability by phone",
+    "l3": "<img src='assets/img/icons/icon-check.svg' alt='check' loading='lazy'> Detailed quote within 24 hours",
+    "boton": "Ask Now"
+    },
+    "acerca-de": {
+    "h3": "Welcome to (COMPANY)",
+    "p": "Our experienced teams specialize in making your offices, commercial properties, and homes not only clean but also hygienic and inviting."
+    },
+    "producto": {
+    "h3": "Products",
+    "p1": "Window Cleaner",
+    "p2": "Germ-Killing",
+    "p3": "Brooms",
+    "p4": "Rags",
+    "p5": "Disinfectants",
+    "p6": "Clothing Freshener",
+    "boton": "Ask Now"
+    },
+    "servicio": {
+    "h3": "Our exclusive services include:",
+    "h4-1": "Office Cleaning",
+    "h4-2": "Building Maintenance",
+    "h4-3": "Household Cleaning",
+    "p1": "In an office, maintaining a clean and tidy environment is essential. Our cleaning team ensures that every space is spotless and ready for daily use. From cleaning desks and public areas to maintaining bathrooms and kitchens, we strive to provide a healthy and professional working environment for all users. With our cleaning services, you can trust that your office is always in top condition, creating a productive and pleasant environment for all employees and visitors.",
+    "p2": "In an office, maintaining a clean and tidy environment is essential. Our cleaning team ensures that every space is spotless and ready for daily use. From cleaning desks and public areas to maintaining bathrooms and kitchens, we strive to provide a healthy and professional working environment for all users. With our cleaning services, you can trust that your office is always in top condition, creating a productive and pleasant environment for all employees and visitors.",
+    "p3": "In an office, maintaining a clean and tidy environment is essential. Our cleaning team ensures that every space is spotless and ready for daily use. From cleaning desks and public areas to maintaining bathrooms and kitchens, we strive to provide a healthy and professional working environment for all users. With our cleaning services, you can trust that your office is always in top condition, creating a productive and pleasant environment for all employees and visitors.",
+    "boton": "Ask Now"
+    },
+    "informe": {
+    "h3": "Ready for a clean and inviting environment?",
+    "p": "Our friendly team is ready to discuss your needs and find the perfect cleaning solution for you.",
+    "boton": "Inquire Now"
+    },
+    "porque": {
+    "h3": "Why (COMPANY)?",
+    "p1": "Our Promise: 100% Satisfaction Guarantee, transparent pricing, and no hidden costs.",
+    "p2": "Book your MaxClean cleaning service now and enjoy the peace of mind that everything is in professional hands.",
+    "cajas-h4-1": "Experience and Professionalism",
+    "cajas-h4-2": "Customized Solutions",
+    "cajas-h4-3": "Satisfaction Guaranteed",
+    "cajas-p1": "Our team has years of experience in the cleaning industry.",
+    "cajas-p2": "We tailor our services to meet your specific needs.",
+    "cajas-p3": "We do everything possible to ensure you are completely satisfied with our services."
+    },
+    "listo": {
+    "h3": "Ask Here"
+    }
+    }

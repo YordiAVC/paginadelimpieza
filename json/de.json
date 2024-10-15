@@ -1,0 +1,61 @@
+{   
+    "lengua":{
+        "lengua":"Sprache:"
+    },
+    "listas": {
+        "inicio":"Startseite",
+        "producto":"Über",
+        "contacto":"Kontakt"
+    },
+    "hero":{
+        "descripcion-h3":"(Unternehmen): Wir sind Produktexperten Reinigung.",
+        "descripcion-p":"Bei (Company) verstehen wir, dass Sauberkeit und Wohlbefinden Hand in Hand gehen.",
+        "l1":"<img src='assets/img/icons/icon-check.svg' alt='check' loading='lazy'>(Anzahl) Jahre Berufserfahrung in der Branche.",
+        "l2":"<img src='assets/img/icons/icon-check.svg' alt='check' loading='lazy'>Telefonische Erreichbarkeit rund um die Uhr",
+        "l3":"<img src='assets/img/icons/icon-check.svg' alt='check' loading='lazy'>Detailliertes Angebot innerhalb von 24 Stunden",
+        "boton":"Frag jetzt"
+    },
+    "acerca-de":{
+        "h3":"Willkommen bei (UNTERNEHMEN)",
+        "p":"Unsere erfahrenen Teams sind darauf spezialisiert, Ihre Büros, Gewerbeimmobilien und Häuser nicht nur sauber, sondern auch hygienisch und einladend zu gestalten."
+    },
+    "producto":{
+        "h3":"Produkte",
+        "p1":"Fensterputzer",
+        "p2":"Keimtötend",
+        "p3":"Besen",
+        "p4":"Lumpen",
+        "p5":"Desinfektionsmittel",
+        "p6":"Kleidungserfrischer",
+        "boton":"Frag jetzt"
+    },
+    "servicio":{
+        "h3":"Zu unseren exklusiven Dienstleistungen gehören:",
+        "h4-1":"Büro putzen",
+        "h4-2":"Gebäudereinigung",
+        "h4-3":"Haushaltsreinigung",
+        "p1":"In einem Büro ist die Aufrechterhaltung einer sauberen und ordentlichen Umgebung unerlässlich. Unser Reinigungsteam sorgt dafür, dass jeder Raum makellos und für den täglichen Gebrauch bereit ist. Von der Reinigung von Schreibtischen und öffentlichen Bereichen bis hin zur Wartung von Badezimmern und Küchen sind wir bestrebt, allen Benutzern ein gesundes und professionelles Arbeitsumfeld zu bieten. Mit unseren Reinigungsdiensten können Sie darauf vertrauen, dass Ihr Büro immer im besten Zustand ist und ein produktives und angenehmes Umfeld für alle Mitarbeiter und Besucher entsteht.",
+        "p2":"In einem Büro ist die Aufrechterhaltung einer sauberen und ordentlichen Umgebung unerlässlich. Unser Reinigungsteam sorgt dafür, dass jeder Raum makellos und für den täglichen Gebrauch bereit ist. Von der Reinigung von Schreibtischen und öffentlichen Bereichen bis hin zur Wartung von Badezimmern und Küchen sind wir bestrebt, allen Benutzern ein gesundes und professionelles Arbeitsumfeld zu bieten. Mit unseren Reinigungsdiensten können Sie darauf vertrauen, dass Ihr Büro immer im besten Zustand ist und ein produktives und angenehmes Umfeld für alle Mitarbeiter und Besucher entsteht.",
+        "p3":"In einem Büro ist die Aufrechterhaltung einer sauberen und ordentlichen Umgebung unerlässlich. Unser Reinigungsteam sorgt dafür, dass jeder Raum makellos und für den täglichen Gebrauch bereit ist. Von der Reinigung von Schreibtischen und öffentlichen Bereichen bis hin zur Wartung von Badezimmern und Küchen sind wir bestrebt, allen Benutzern ein gesundes und professionelles Arbeitsumfeld zu bieten. Mit unseren Reinigungsdiensten können Sie darauf vertrauen, dass Ihr Büro immer im besten Zustand ist und ein produktives und angenehmes Umfeld für alle Mitarbeiter und Besucher entsteht.",
+        "boton":"Frag jetzt"
+    },
+    "informe":{
+        "h3":"Bereit für eine saubere und einladende Umgebung?",
+        "p":"Unser freundliches Team steht Ihnen gerne zur Verfügung, um Ihre Bedürfnisse zu besprechen und die perfekte Reinigungslösung für Sie zu finden.",
+        "boton":"Fragen Sie unverbindlich an"
+    },
+    "porque":{
+        "h3":"Warum (UNTERNEHMEN)?",
+        "p1":"Unser Versprechen: 100 % Zufriedenheitsgarantie, transparente Preise und keine versteckten Kosten.",
+        "p2":"Buchen Sie jetzt Ihren MaxClean-Reinigungsservice und genießen Sie die Gewissheit, dass alles in professionellen Händen ist.",
+        "cajas-h4-1":"Erfahrung und Professionalität.",
+        "cajas-h4-2":"Individuelle Lösungen",
+        "cajas-h4-3":"Zufriedenheit garantiert",
+        "cajas-p1":"Unser Team verfügt über jahrelange Erfahrung in der Reinigungsbranche.",
+        "cajas-p2":"Wir passen unsere Dienstleistungen an Ihre spezifischen Bedürfnisse an.",
+        "cajas-p3":"Wir tun alles, um sicherzustellen, dass Sie mit unseren Dienstleistungen rundum zufrieden sind."
+    },
+    "listo":{
+        "h3":"fragen Sie hier"
+    }
+}
